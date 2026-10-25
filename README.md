@@ -1,3 +1,5 @@
+> Based on [https://github.com/flower-corp/rosedb](https://github.com/flower-corp/rosedb) - studied and extended.
+
 <div align="center">
 <strong>
 <samp>
